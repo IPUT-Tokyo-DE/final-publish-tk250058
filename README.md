@@ -5,6 +5,7 @@
 ここにゲームの内容説明を記述する
 
 ![画面イメージ](docs/images/game_image01.png)
+<img width="958" height="598" alt="スクリーンショット 2026-01-22 164926" src="https://github.com/user-attachments/assets/027f2c7d-1ab1-4403-9b63-80976a55393d" />
 
 ## 操作説明
 例
